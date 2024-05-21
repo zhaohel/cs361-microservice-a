@@ -65,5 +65,6 @@ print(response.json())
 ```
 ## Receiving Data
 
+## UML Sequence Diagram
 
 
