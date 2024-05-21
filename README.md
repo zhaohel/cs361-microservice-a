@@ -90,5 +90,6 @@ When you send a PUT request to the /update endpoint:
 }
 ```
 ## UML Sequence Diagram
+<img width="678" alt="image" src="https://github.com/zhaohel/cs361-microservice-a/assets/103477958/07fba9fa-39b6-4e34-a11b-ab860f722fba">
 
 
