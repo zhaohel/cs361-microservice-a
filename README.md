@@ -64,7 +64,31 @@ response = requests.put('http://localhost:5000/update', json={"date": "2024-05-2
 print(response.json())
 ```
 ## Receiving Data
-
+How to interpret the responses from the microservice after making HTTP requests to its endpoints.
+### 1. Log Usage
+When you send a POST request to the /log endpoint:
+```
+{
+  "message": "Usage logged",
+  "date": "2024-05-20"
+}
+```
+### 2. Count Entries
+When you send a GET request to the /count endpoint:
+```
+{
+  "count": 1
+}
+```
+This response indicates the total number of usage logs recorded.
+### 3. Update Last Entry
+When you send a PUT request to the /update endpoint:
+```
+{
+  "message": "Last entry updated",
+  "new_date": "2024-05-21"
+}
+```
 ## UML Sequence Diagram
 
 
