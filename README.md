@@ -1,5 +1,5 @@
 # cs361-microservice-a
-
+Below are instructions for requesting and receiving data.
 ## Prerequisites
 - Python 
 - Flask
