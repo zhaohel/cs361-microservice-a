@@ -19,7 +19,6 @@ or
 ```
 python3 ireneMicroservice.py
 ```
-The service will start on http://localhost:5000.
 
 ## Requesting Data
 ### 1. Log Usage
