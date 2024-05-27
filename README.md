@@ -1,8 +1,16 @@
 # cs361-microservice-a
 Below are instructions for requesting and receiving data.
 ## Prerequisites
-- Python 
+- Python
 
+### Installation
+
+Clone this repository to your local machine:
+
+```bash
+git clone <your repo url>
+cd <your-repository>
+```
 Running Microservice
 ```
 python ireneMicroservice.py
