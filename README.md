@@ -2,16 +2,7 @@
 Below are instructions for requesting and receiving data.
 ## Prerequisites
 - Python 
-- Flask
 
-Install Flask:
-```
-pip install flask
-```
-or 
-```
-pip3 install flask
-```
 Running Microservice
 ```
 python ireneMicroservice.py
