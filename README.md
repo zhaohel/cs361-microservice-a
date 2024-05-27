@@ -21,6 +21,7 @@ python3 usageSocket.py
 ```
 
 ## Requesting Data
+Open a second terminal to use these commands.
 ### 1. Log Usage
 To log a new usage date:
 ```
